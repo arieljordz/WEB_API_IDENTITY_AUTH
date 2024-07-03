@@ -1,0 +1,6 @@
+@WEB_API_IDENTITY_AUTH_HostAddress = http://localhost:5025
+
+GET {{WEB_API_IDENTITY_AUTH_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
